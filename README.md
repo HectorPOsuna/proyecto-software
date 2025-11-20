@@ -1,3 +1,3 @@
 # proyecto-software
 
-Texto de conflicto para pruebas de software
+Texto de nuevo de conflicto para pruebas de software rama conflicto

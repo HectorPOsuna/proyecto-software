@@ -1,3 +1,3 @@
 # proyecto-software
 
-Texto original de prueba para conflictos.
+Texto de conflicto resuelto entre main y rama

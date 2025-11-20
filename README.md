@@ -1,3 +1,3 @@
 # proyecto-software
 
-Texto modificado para la practica de conflictos.
+Texto de conflicto resuelto entre main y rama
